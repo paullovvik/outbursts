@@ -1,0 +1,305 @@
+title: Outburst library
+version: 3.7
+media:
+  - name: Doh
+    polarity: negative
+    severity: 1
+    mediatype: audio
+    text: "Doh!"
+    data: doh.ogg
+    church: never
+
+  - name: R2D2Scream
+    polarity: negative
+    severity: 4
+    mediatype: audio
+    text: "Ahhhh!"
+    data: r2d2_scream.ogg
+    church: never
+
+  - name: Shitty
+    polarity: negative
+    severity: 5
+    mediatype: audio
+    text: "Shitty!"
+    data: shitty.ogg
+    church: never
+
+  - name: HoustonWeHaveAProblem
+    polarity: negative
+    severity: 1
+    mediatype: audio
+    text: "Houston, we have a problem"
+    data: houston_we_have_a_problem.ogg
+    church: both
+
+  - name: ComeInTomorrow
+    polarity: negative
+    severity: 4
+    mediatype: audio
+    text: "I'm going to need you to come in tomorrow"
+    data: come_in_tomorrow.ogg
+    church: both
+
+  - name: ComeInTomorrow
+    polarity: negative
+    severity: 3
+    mediatype: audio
+    text: "I'm also going to need you to go ahead and come in Sunday, too"
+    data: sunday_too.ogg
+    church: both
+
+  - name: Crickets
+    polarity: neutral
+    severity: 1
+    mediatype: audio
+    text: "crickets chirping"
+    data: crickets.ogg
+    church: both
+
+  - name: GoatScream
+    polarity: negative
+    severity: 5
+    mediatype: audio
+    text: "goat scream"
+    data: goat_scream.ogg
+    church: never
+
+  - name: LaughingStock
+    polarity: negative
+    severity: 5
+    mediatype: audio
+    text: "I will be the laughing stock of the whole town!"
+    data: laughing_stock.ogg
+    church: never
+
+  - name: No
+    polarity: negative
+    severity: 3
+    mediatype: audio
+    text: "No!!"
+    data: no.ogg
+    church: never
+
+  - name: Nope
+    polarity: negative
+    severity: 2
+    mediatype: audio
+    text: "Nope"
+    data: nope.ogg
+    church: never
+
+  - name: HellNo
+    polarity: negative
+    severity: 5
+    mediatype: audio
+    text: "Oh hell no!"
+    data: hell_no.ogg
+    church: never
+
+  - name: RimShot
+    polarity: positive
+    severity: 1
+    mediatype: audio
+    text: "Rim shot"
+    data: rim_shot.ogg 
+    church: both
+
+  - name: SadTrombone
+    polarity: negative
+    severity: 3
+    mediatype: audio
+    text: "Trombone"
+    data: sad_trombone.ogg  
+    church: only
+
+  - name: Sigh
+    polarity: negative
+    severity: 1
+    mediatype: audio
+    text: "Sigh"
+    data: sigh.ogg 
+    church: both
+
+  - name: Sucks
+    polarity: negative
+    severity: 4
+    mediatype: audio
+    text: "I think it sucks!"
+    data: sucks.ogg 
+    church: never
+
+  - name: SystemWorks
+    polarity: positive
+    severity: 5
+    mediatype: audio
+    text: "The system works"
+    data: system_works.ogg 
+    church: never
+
+  - name: Easy
+    polarity: positive
+    severity: 3
+    mediatype: audio
+    text: "That was easy"
+    data: that_was_easy.ogg 
+    church: both
+
+  - name: WilhelmScream
+    polarity: negative
+    severity: 4
+    mediatype: audio
+    text: "Wilhelm scream"
+    data: wilhelm_scream.ogg
+    church: never
+
+  - name: WooHoo
+    polarity: positive
+    severity: 4
+    mediatype: audio
+    text: "Woohoo!"
+    data: woohoo.ogg 
+    church: both
+
+  - name: Yay
+    polarity: positive
+    severity: 4
+    mediatype: audio
+    text: "Yay!"
+    data: yay.ogg
+    church: never
+
+  - name: Interesting
+    polarity: neutral
+    severity: 1
+    mediatype: tts
+    text: "Interesting"
+    data: "Interesting"
+    church: both
+
+  - name: BlessYourHeart
+    polarity: negative
+    severity: 5
+    mediatype: audio
+    text: "Bless your heart!"
+    data: bless_your_heart.ogg
+    church: only
+
+  - name: SuperfluousBuns
+    polarity: negative
+    severity: 3
+    text: "I am removing the superfluous buns"
+    data: superfluous_buns.ogg
+    church: both
+
+  - name: HowWouldHeKnow
+    polarity: negative
+    severity: 3
+    text: "How would he know where we are going?"
+    data: how_would_he_know_where_we_are_going.ogg
+    church: both
+
+  - name: AlrightyThen
+    polarity: positive
+    severity: 3
+    text: "Alrighty then!"
+    data: alrighty_then.ogg
+    church: both
+
+  - name: Laugh
+    polarity: neutral
+    severity: 4
+    text: "Laughing"
+    data: laugh.ogg
+    church: both
+
+  - name: HallelujahHolyShit
+    polarity: positive
+    severity: 5
+    text: "Hallelujah, holy shit! Where's the Tylenol?"
+    data: hallelujah_holy_shit.ogg
+    church: never
+
+  - name: CleanDryPlace
+    polarity: negative
+    severity: 4
+    text: "And put it in a clean, dry place"
+    data: clean_dry_place.ogg
+    church: never
+
+  - name: StenchWouldBeGreat
+    polarity: negative
+    severity: 4
+    text: "The stench would be great"
+    data: stench_would_be_great.ogg
+    church: never
+  
+  - name: Excellent
+    plarity: positive
+    severity: 4
+    text: "Excellent!"
+    data: excellent.ogg
+    church: both
+    
+  - name: CrazyPills
+    plarity: negative
+    severity: 4
+    text: "Doesn't anyone notice this? I feel like I'm taking crazy pills!"
+    data: crazy_pills.ogg
+    church: never
+
+  - name: HolySchnikes
+    plarity: positive
+    severity: 5
+    text: "Holy Schikes!"
+    data: holy_schnikes.ogg
+    church: both
+
+  - name: NiceMess
+    plarity: negative
+    severity: 3
+    text: "Well, here's another nice mess you've gotten me into"
+    data: nice_mess.ogg
+    church: both
+  
+  - name: Inconceivable
+    plarity: negative
+    severity: 2
+    text: "Inconceivable!"
+    data: inconceivable.ogg
+    church: both
+
+  - name: TarterSauce
+    plarity: negative
+    severity: 1
+    text: "Aw tarter sauce!"
+    data: tarter_sauce.ogg
+    church: both
+
+  - name: NyukNyuk
+    plarity: positive
+    severity: 3
+    text: "Nyuk nyuk nyuk nyuk"
+    data: nyuk_nyuk.ogg
+    church: both
+
+  - name: ShutTheFrontDoor
+    plarity: negative
+    severity: 4
+    text: "Shut the front door!"
+    data: shut_the_front_door.ogg
+    church: both
+
+  - name: SufferinSuccotash
+    plarity: negative
+    severity: 2
+    text: "Sufferin succotash!"
+    data: sufferin_succotash.ogg
+    church: both
+
+  - name: Hello
+    plarity: neutral
+    severity: 3
+    text: "Hellooooo!"
+    data: hello.ogg
+    church: both
