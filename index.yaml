@@ -235,70 +235,70 @@ media:
     church: never
   
   - name: Excellent
-    plarity: positive
+    polarity: positive
     severity: 4
     text: "Excellent!"
     data: excellent.ogg
     church: both
     
   - name: CrazyPills
-    plarity: negative
+    polarity: negative
     severity: 4
     text: "Doesn't anyone notice this? I feel like I'm taking crazy pills!"
     data: crazy_pills.ogg
     church: never
 
   - name: HolySchnikes
-    plarity: positive
+    polarity: positive
     severity: 5
     text: "Holy Schikes!"
     data: holy_schnikes.ogg
     church: both
 
   - name: NiceMess
-    plarity: negative
+    polarity: negative
     severity: 3
     text: "Well, here's another nice mess you've gotten me into"
     data: nice_mess.ogg
     church: both
   
   - name: Inconceivable
-    plarity: negative
+    polarity: negative
     severity: 2
     text: "Inconceivable!"
     data: inconceivable.ogg
     church: both
 
   - name: TarterSauce
-    plarity: negative
+    polarity: negative
     severity: 1
     text: "Aw tarter sauce!"
     data: tarter_sauce.ogg
     church: both
 
   - name: NyukNyuk
-    plarity: positive
+    polarity: positive
     severity: 3
     text: "Nyuk nyuk nyuk nyuk"
     data: nyuk_nyuk.ogg
     church: both
 
   - name: ShutTheFrontDoor
-    plarity: negative
+    polarity: negative
     severity: 4
     text: "Shut the front door!"
     data: shut_the_front_door.ogg
     church: both
 
   - name: SufferinSuccotash
-    plarity: negative
+    polarity: negative
     severity: 2
     text: "Sufferin succotash!"
     data: sufferin_succotash.ogg
     church: both
 
   - name: Hello
-    plarity: neutral
+    polarity: neutral
     severity: 3
     text: "Hellooooo!"
     data: hello.ogg
