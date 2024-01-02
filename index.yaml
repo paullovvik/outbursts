@@ -303,3 +303,66 @@ media:
     text: "Hellooooo!"
     data: hello.ogg
     church: both
+
+  - name: GruLaugh
+    polarity: positive
+    severity: 3
+    text: "Hahahaha!"
+    data: gru_laugh.ogg
+    church: both
+
+  - name: MundaneDetail
+    polarity: negative
+    severity: 4
+    text: "I must have put a decimal point in the wrong place"
+    data: mundane_detail.ogg
+    church: never
+  
+  - name: NotAMundaneDetail
+    polarity: negative
+    severity: 3
+    text: "Well this is not a mundane detail!"
+    data: not_a_mundane_detail.ogg
+    church: never
+
+  - name: DealWithTheCustomers
+    polarity: negative
+    severity: 3
+    text: "I deal with the damn customers so the engineers don't have to"
+    data: deal_with_the_customers.ogg
+    church: never
+
+  - name: IHavePeopleSkills
+    polarity: negative
+    severity: 2
+    text: "I have people skills"
+    data: i_have_people_skills.ogg
+    church: both
+
+  - name: IAmGoodAtDealingwithPeople
+    polarity: negative
+    severity: 2
+    text: "I am good at dealing with people"
+    data: i_am_good_at_dealing_with_people.ogg
+    church: never
+
+  - name: WhatTheHellIsWrongWithYouPeople
+    polarity: negative
+    severity: 4
+    text: "What the hell is wrong with you people?!"
+    data: what_the_hell_is_wrong_with_you_people.ogg
+    church: never
+
+  - name: IllBeInTheAngryDome
+    polarity: negative
+    severity: 2
+    text: "If anyone needs me I'll be in the angry dome."
+    data: ill_be_in_the_angry_dome.ogg
+    church: never
+
+  - name: DonkeyLaughing
+    polarity: positive
+    severity: 3
+    text: "Hahahaha!"
+    data: donkey_laughing.ogg
+    church: both
